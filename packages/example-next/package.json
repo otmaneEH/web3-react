@@ -16,7 +16,7 @@
     "@web3-react/empty": "8.0.12-beta.0",
     "@web3-react/metamask": "8.0.19-beta.0",
     "@web3-react/network": "8.0.18-beta.0",
-    "@web3-react/types": "8.0.12-beta.0",
+    "@web3-react/types": "8.2.3",
     "@web3-react/url": "8.0.17-beta.0",
     "@web3-react/walletconnect": "8.0.26-beta.0",
     "next": "^12.1.0",
