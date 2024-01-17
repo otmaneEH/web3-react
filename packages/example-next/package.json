@@ -14,7 +14,7 @@
     "@web3-react/core": "8.0.23-beta.0",
     "@web3-react/eip1193": "8.0.18-beta.0",
     "@web3-react/empty": "8.0.12-beta.0",
-    "@web3-react/metamask": "8.0.19-beta.0",
+    "@web3-react/metamask": "8.2.4",
     "@web3-react/network": "8.0.18-beta.0",
     "@web3-react/types": "8.0.12-beta.0",
     "@web3-react/url": "8.0.17-beta.0",
